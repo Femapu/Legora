@@ -1,3 +1,11 @@
 {
-  "drafts": []
+  "drafts": [
+    {
+      "id": "2026-10-23-test-bridge",
+      "day": "2026-10-23",
+      "flair": "Meta",
+      "title": "[TEST] LegoraBot bridge check",
+      "body": "🧪 **This is a test draft for LegoraBot.** If you can read it in the review form, the bridge between Claude and the bot works.\n\n**What this test checks**\n\n- Claude writes a draft into the public repository [Femapu/Legora](https://github.com/Femapu/Legora)\n- LegoraBot fetches `inbox.json`, imports the draft and puts it in the queue\n- The moderator receives a modmail notification and reviews the post\n\n**Formatting check**\n\n- **Bold**, *italic* and [a link to Legora's product pages](https://legora.com/product/agent)\n- Bullet lists and paragraphs\n\nDiscard this draft after the test: it is not meant to be published."
+    }
+  ]
 }
