@@ -9,6 +9,17 @@
         "https://legora.com/product/agent",
         "https://legora.com/newsroom/legora-introduces-the-legora-aos-the-agentic-operating-system-for-legal-work"
       ]
+    },
+    {
+      "day": "2026-10-23",
+      "format": "Show Your Workflow",
+      "topic": "inbound NDA triage",
+      "title": "🛠️ Show Your Workflow: triaging an inbound NDA",
+      "links": [
+        "https://legora.com/product/skills",
+        "https://legora.com/blog/introducing-skills",
+        "https://artificiallawyer.com/2026/10/07/legora-launches-250-skills-for-legal-agents"
+      ]
     }
   ]
 }
